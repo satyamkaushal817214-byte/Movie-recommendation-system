@@ -32,4 +32,4 @@ Dataset used: MovieLens Dataset
 https://grouplens.org/datasets/movielens/
 
 ## Author
-Your Name
+Satyam Kaushal
